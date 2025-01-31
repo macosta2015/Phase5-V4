@@ -1,4 +1,4 @@
-// August 23th of 2024 
+//  Last UpdateL: January 31st of 2025
 
 const puppeteer = require('puppeteer');
 require('dotenv').config();
